@@ -7248,11 +7248,6 @@ public final class Settings {
          */
         public static final String HEADS_UP_TIMEOUT = "heads_up_timeout";
 
-	/**
-         * @hide
-         */
-        public static final String ISLAND_NOTIFICATION = "island_notification";
-
         /**
          * Give haptic feedback on qs brightness slider changes.
          * @hide
@@ -7280,11 +7275,6 @@ public final class Settings {
          */ 
         @Readable
         public static final String SCROLL_FLING_HAPTIC_FEEDBACK = "scroll_fling_haptic_feedback";
-
-        /**
-         * @hide
-         */
-        public static final String ISLAND_NOTIFICATION_NOW_PLAYING = "island_notification_now_playing";
 
         /**
          * Which Vibration Pattern to use
